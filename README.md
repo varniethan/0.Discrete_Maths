@@ -21,4 +21,4 @@
     - Mandalbrot sets
     - Julia sets
 7. Turing Machine
-    - "Computer Science Meets Philoshopy"
+    - "Computer Science Meets Philoshopy" - by Professor Peter Millican
