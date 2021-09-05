@@ -20,3 +20,5 @@
 6. Fractals:
     - Mandalbrot sets
     - Julia sets
+7. Turing Machine
+    - "Computer Science Meets Philoshopy"
