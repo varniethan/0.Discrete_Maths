@@ -11,12 +11,12 @@
 3. The simplex algorithm
 
 4. Game Theory
-  - Prisoner's Dilemma
+    - Prisoner's Dilemma
 
 5. Philosophical Models:
-  - Schelling's segregation model
-  - Epidemic spreading
+    - Schelling's segregation model
+    - Epidemic spreading
  
 6. Fractals:
-  - Mandalbrot sets
-  - Julia sets
+    - Mandalbrot sets
+    - Julia sets
