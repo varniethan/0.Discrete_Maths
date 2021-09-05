@@ -20,5 +20,10 @@
 6. Fractals:
     - Mandalbrot sets
     - Julia sets
+
+ 6. Huffman coding:
+    - Encoder
+    - Decoder
+  
 7. Turing Machine
     - "Computer Science Meets Philoshopy" - by Professor Peter Millican
